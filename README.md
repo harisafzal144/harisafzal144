@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harisafzal144
-- � working on javaScript and javascript Reactjs 
+- � working on javaScript and javascript framework or library  
 - 💞️ I’m looking to collaborate  in small and large organization
 - 📫 How to reach me ...Email: harismehmood112@gmail Skype: username : Haris Afzal or harismehmood112@gmail.com whatsapp: +923073794329
 
