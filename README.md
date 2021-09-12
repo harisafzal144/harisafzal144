@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harisafzal144
-- 👀 I’m interested in data
-- 🌱 I’m currently learning databases
-- 💞️ I’m looking to collaborate on in small and large databases
+- 👀 
+- 💞️ I’m looking to collaborate  in small and large organization
 - 📫 How to reach me ...Email: harismehmood112@gmail Skype: username : Haris Afzal or harismehmood112@gmail.com whatsapp: +923073794329
 
 <!---
